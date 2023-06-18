@@ -10,6 +10,8 @@ namespace Atividade_Logica_12
     {
         static void Main(string[] args)
         {
+            // Teste de mesa
+            
             double x, y;
 
             Console.Write("Digite o primeiro valor: ");

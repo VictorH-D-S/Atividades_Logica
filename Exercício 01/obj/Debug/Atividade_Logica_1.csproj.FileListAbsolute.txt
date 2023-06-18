@@ -1,0 +1,8 @@
+C:\Users\vitin\source\repos\Atividade_Logica_1\Atividade_Logica_1\bin\Debug\Atividade_Logica_1.exe.config
+C:\Users\vitin\source\repos\Atividade_Logica_1\Atividade_Logica_1\bin\Debug\Atividade_Logica_1.exe
+C:\Users\vitin\source\repos\Atividade_Logica_1\Atividade_Logica_1\bin\Debug\Atividade_Logica_1.pdb
+C:\Users\vitin\source\repos\Atividade_Logica_1\Atividade_Logica_1\obj\Debug\Atividade_Logica_1.csproj.AssemblyReference.cache
+C:\Users\vitin\source\repos\Atividade_Logica_1\Atividade_Logica_1\obj\Debug\Atividade_Logica_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitin\source\repos\Atividade_Logica_1\Atividade_Logica_1\obj\Debug\Atividade_Logica_1.csproj.CoreCompileInputs.cache
+C:\Users\vitin\source\repos\Atividade_Logica_1\Atividade_Logica_1\obj\Debug\Atividade_Logica_1.exe
+C:\Users\vitin\source\repos\Atividade_Logica_1\Atividade_Logica_1\obj\Debug\Atividade_Logica_1.pdb

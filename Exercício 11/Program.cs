@@ -11,8 +11,8 @@ namespace Atividade_Logica_11
         static void Main(string[] args)
         {
             /*
-             * 10) Ler 3 valores (considere que não serão informados valores iguais) e escrever a soma 
-                   dos 2 maiores.
+             * 11) Ler 3 valores (considere que não serão informados valores iguais) e escrevê-los em 
+                ordem crescente.
              */
 
             float val1, val2, val3;
